@@ -13,7 +13,9 @@ Constraints this script is built around (developers.google.com/youtube/terms):
     30 days: 1000 / 30 = 34 searches a day.
 
 One search per problem: "<title> leetcode", 10 results, NeetCode pinned first
-when present, otherwise YouTube's relevance order, one video per channel.
+and take U forward (Striver) second when present, otherwise YouTube's relevance
+order, one video per channel. A Striver video already in the data (from
+refresh_striver_videos.py, which reads his official sheets) is kept.
 
 Setup: export YOUTUBE_API_KEY=... (Google Cloud project with YouTube Data API v3)
 
@@ -36,6 +38,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_PATH = os.path.join(ROOT, 'src', 'assets', 'data', 'problem_data.json')
 API_URL = 'https://www.googleapis.com/youtube/v3/search'
 NEETCODE_CHANNELS = {'neetcode', 'neetcodeio'}
+STRIVER_CHANNEL = 'take U forward'
 MAX_VIDEOS = 5
 REFRESH_AFTER_DAYS = 30
 
@@ -68,10 +71,11 @@ def search(api_key, query):
     } for item in payload.get('items', []) if item.get('id', {}).get('videoId')]
 
 
-def choose_videos(results, problem_title):
+def choose_videos(results, problem_title, striver_video=None):
     relevant = [v for v in results if mentions_problem(v['title'], problem_title)]
     neetcode = [v for v in relevant if normalized(v['channel']).replace(' ', '') in NEETCODE_CHANNELS]
-    candidates = neetcode[:1] + relevant + results
+    striver = [striver_video] if striver_video else [v for v in relevant if v['channel'] == STRIVER_CHANNEL]
+    candidates = neetcode[:1] + striver[:1] + relevant + results
 
     ordered = []
     seen = set()
@@ -119,8 +123,14 @@ def main():
     todo = [q for q in questions if q['title'] == args.only] if args.only else sorted(stale, key=refreshed_at)[:args.batch]
     for index, question in enumerate(todo, start=1):
         title = question['title']
+        existing_striver = next((v for v in question.get('videos', []) if v['channel'] == STRIVER_CHANNEL), None)
+        striver_video = existing_striver and {
+            'id': existing_striver['embedded_url'].rsplit('/', 1)[-1],
+            'title': title,
+            'channel': STRIVER_CHANNEL,
+        }
         try:
-            videos = choose_videos(search(api_key, f'{title} leetcode'), title)
+            videos = choose_videos(search(api_key, f'{title} leetcode'), title, striver_video)
         except Exception as error:
             print(f'  ! {title}: {error}', file=sys.stderr)
             if 'quota' in str(error).lower() or '403' in str(error):

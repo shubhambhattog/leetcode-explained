@@ -12,6 +12,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/UXDSeD9mN-k",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/BoHO04xVeU0",
                     "channel": "Nick White"
                 },
@@ -22,10 +26,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Yyyi12oaK94",
                     "channel": "Coding with John"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Aql6zHkONek",
-                    "channel": "Kevin Naughton Jr."
                 }
             ],
             "companies": [
@@ -100,6 +100,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/LBVsXSMOIk4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/aM4Iv7eEr2o",
                     "channel": "Nick White"
                 },
@@ -110,10 +114,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/zSwAnsQp09k",
                     "channel": "Pheezx Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/6MlsMClyz5U",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -188,6 +188,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/-zSxTJkcdAo",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/3IETreEybaA",
                     "channel": "Nick White"
                 },
@@ -198,10 +202,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/GS9TyovoU4c",
                     "channel": "Coding with John"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/focOe_mJ7NY",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -276,12 +276,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/5qDN3ZDtyWg",
-                    "channel": "Ashish Kumar"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/NTop3VTjmxk",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/5qDN3ZDtyWg",
+                    "channel": "Ashish Kumar"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/LPFhl65R7ww",
@@ -538,6 +538,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/1xNbjMdbjug",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/CRgXG1vK-wg",
                     "channel": "Nick White"
                 },
@@ -548,10 +552,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/V5kYHHRoMlk",
                     "channel": "Technosage"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/X-kwLgPQO4g",
-                    "channel": "Naresh Gupta"
                 }
             ],
             "companies": [
@@ -708,6 +708,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/1xNbjMdbjug",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/UPdSViixmDs",
                     "channel": "Nick White"
                 },
@@ -718,10 +722,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/EHOQBaSd9rg",
                     "channel": "if else statement"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/GILypEIcMQM",
-                    "channel": "Santamaria Code"
                 }
             ],
             "companies": [
@@ -1232,16 +1232,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/DhFh8Kw7ymk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/qJSPYnS35SE",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Ca7k53qcTic",
                     "channel": "Knowledge Center"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/onLoX6Nhvmg",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/8uWRUyWpy8M",
@@ -1489,12 +1489,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/8ViERnSgPKs",
-                    "channel": "Techdose"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/eD95WRfh81c",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/8ViERnSgPKs",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/OZdOHiodh_c",
@@ -1572,16 +1572,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/3kMKYQ2wNIU",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/XtYEEvrhemI",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Kncuqqg_I18",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Lhu3MsXZy-Q",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/M0CLi1HwpvM",
@@ -1660,16 +1660,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/xwjS0iZhw4I",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/lNYozout6FM",
                     "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/9kmUaXrjizQ",
                     "channel": "Nick White"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/wkDfsKijrZ8",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/3gqYc56p9qU",
@@ -1748,6 +1748,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/Xb4slcp1U38",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/KVf1Uuqfv8E",
                     "channel": "Nick White"
                 },
@@ -1758,10 +1762,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/OXmaACquVsY",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/g_uxlc8C6HE",
-                    "channel": "Algorithms Made Easy"
                 }
             ],
             "companies": [
@@ -1924,6 +1924,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/ykelywHJWLg",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/kpCesr9VXDA",
                     "channel": "Techdose"
                 },
@@ -1934,10 +1938,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/RCuBc4Zl-oY",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/u8LQt_iUKps",
-                    "channel": "Ayushi Sharma"
                 }
             ],
             "companies": [
@@ -2099,12 +2099,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/FYsYAELWyRs",
-                    "channel": "Algorithms Made Easy"
+                    "embedded_url": "https://www.youtube.com/embed/lIar1skcQYI",
+                    "channel": "take U forward"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/Of0HPkk3JgI",
-                    "channel": "take U forward"
+                    "embedded_url": "https://www.youtube.com/embed/FYsYAELWyRs",
+                    "channel": "Algorithms Made Easy"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/BfQeP6XEXEc",
@@ -2187,6 +2187,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/37E9ckMDdTk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/zIHe2V5Py3U",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -2197,10 +2201,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/xDopRsDDnao",
                     "channel": "Ashish Kumar"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/VSq4wxSpbTc",
-                    "channel": "GoodTecher"
                 }
             ],
             "companies": [
@@ -2439,6 +2439,10 @@
             "acceptance": 0.17106,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/pBD4B1tzgVc",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/m4L_5qG4vG8",
                     "channel": "Algorithms Made Easy"
                 },
@@ -2453,10 +2457,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/V20qmx_l2-4",
                     "channel": "TechBarik"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/yYgNyxMBrak",
-                    "channel": "Tech Adora by Nivedita"
                 }
             ],
             "companies": [
@@ -2588,16 +2588,16 @@
             "acceptance": 0.38278,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/JDOXKqF60RQ",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/quAS1iydq7U",
                     "channel": "Back To Back SWE"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/6qXO72FkqwM",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/LuLCLgMElus",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/ho4gTCr0QSk",
@@ -2756,12 +2756,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/QdVrY3stDD4",
-                    "channel": "Nick White"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/r3pMQ8-Ad5s",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/QdVrY3stDD4",
+                    "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/oTfPJKGEHcc",
@@ -2844,6 +2844,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/hjR1IYVx9lY",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/bU-q1OJ0KWw",
                     "channel": "Nick White"
                 },
@@ -2854,10 +2858,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Y7LiLNdayF0",
                     "channel": "Pepcoding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/bvaYNDKp830",
-                    "channel": "Nikhil Lohia"
                 }
             ],
             "companies": [
@@ -2932,6 +2932,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/6zhGS79oQ4k",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/0A40XJH_VvE",
                     "channel": "Techdose"
                 },
@@ -2942,10 +2946,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/SW4jN-Fvw1g",
                     "channel": "Technosage"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/-X4NW1m7Z74",
-                    "channel": "HackerHeap"
                 }
             ],
             "companies": [
@@ -3104,20 +3104,20 @@
             "acceptance": 0.58863,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/lLixGoGuClc",
-                    "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/JzONv5kaPJM",
-                    "channel": "Back To Back SWE"
+                    "embedded_url": "https://www.youtube.com/embed/TjFXEUCMqI8",
+                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/FWAIf_EVUKE",
                     "channel": "take U forward"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/TjFXEUCMqI8",
-                    "channel": "NeetCode"
+                    "embedded_url": "https://www.youtube.com/embed/lLixGoGuClc",
+                    "channel": "Happy Coding"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/JzONv5kaPJM",
+                    "channel": "Back To Back SWE"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/eLhmZlsGmvE",
@@ -3275,12 +3275,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/AUIfTelAGVc",
-                    "channel": "Timothy H Chang"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/OyZFFqQtu98",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/AUIfTelAGVc",
+                    "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/XluVO8rlRf4",
@@ -3539,7 +3539,7 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/m18Hntz4go8",
+                    "embedded_url": "https://www.youtube.com/embed/1_5VuquLbXg",
                     "channel": "take U forward"
                 },
                 {
@@ -3711,6 +3711,14 @@
             "acceptance": 0.2716,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/HAA8mgxlov8",
+                    "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/ZmlQ3vgAOMo",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/fWeTjhgDt3A",
                     "channel": "TechBarik"
                 },
@@ -3721,14 +3729,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/NbgUZAoIz3g",
                     "channel": "Pepcoding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/HAA8mgxlov8",
-                    "channel": "NeetCode"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/OgovJ9CB0hI",
-                    "channel": "CodeHelp - by Babbar"
                 }
             ],
             "companies": [
@@ -3797,6 +3797,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/7SBVnw7GSTk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/wLPdkLM_BWo",
                     "channel": "Code with Alisha"
                 },
@@ -3807,10 +3811,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/BRnRPLNGWIo",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/OExhTm1747c",
-                    "channel": "Naresh Gupta"
                 }
             ],
             "companies": [
@@ -3899,10 +3899,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/WD-vqCYm5hc",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/FZe0UqISmUw",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -3977,6 +3973,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/f2ic2Rsc9pU",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/is_T6uzlTyg",
                     "channel": "Fraz"
                 },
@@ -3987,10 +3987,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/rR9rPCYIwKc",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Edot_1IP8pQ",
-                    "channel": "Tech Adora by Nivedita"
                 }
             ],
             "companies": [
@@ -4058,7 +4054,7 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/Y72QeX0Efxw",
+                    "embedded_url": "https://www.youtube.com/embed/Z0R2u6gd3GU",
                     "channel": "take U forward"
                 },
                 {
@@ -4410,16 +4406,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/i05Ju7AftcM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/dpz1MDX8hEM",
                     "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Wovw5P78Zfw",
                     "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/i05Ju7AftcM",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -4488,6 +4484,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/AHZpyENo7k4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/A6foafQNih8",
                     "channel": "Timothy H Chang"
                 },
@@ -4498,10 +4498,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/2MmGzdiKR9Y",
                     "channel": "Back To Back SWE"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/6HntYGZyjZI",
-                    "channel": "The Code Skool"
                 }
             ],
             "companies": [
@@ -4576,16 +4572,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/3Zv-s9UUrFM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/3joo9yAZVh8",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/1ZGJzvkcLsA",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/3Zv-s9UUrFM",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/RvLrWFBJ9fM",
@@ -4662,6 +4658,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Yan0cv2cLy8",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/tZAa_jJ3SwQ",
+                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/muDPTDrpS28",
@@ -4748,16 +4748,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/2JzRBPFYbKE",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/qKczfGUrFY4",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/g1zOrfmNzvk",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/2JzRBPFYbKE",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/dzNIPX7HY6A",
@@ -4836,6 +4836,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/xxRE-46OCC8",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/NWM4e4yda0w",
                     "channel": "Naresh Gupta"
                 },
@@ -4846,10 +4850,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/sJUj1zzGfhE",
                     "channel": "Tech Adora by Nivedita"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/SdxgI6zFuWY",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -5078,16 +5078,16 @@
             "acceptance": 0.45233,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/wT7gcXLYoao",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/W9SIlE2jhBQ",
                     "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/VaoZGIdg_tc",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/wT7gcXLYoao",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/knTd0fgAo-0",
@@ -5152,6 +5152,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/uT7YI7XbTY8",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/XY403-p4dT0",
                     "channel": "Code with Alisha"
                 },
@@ -5162,10 +5166,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/v1rY8h5wDGQ",
                     "channel": "Xavier Elon"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/-hAbvtMYk5U",
-                    "channel": "Ayushi Sharma"
                 }
             ],
             "companies": [
@@ -5234,12 +5234,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/rBAxUTqvlQA",
-                    "channel": "Techdose"
+                    "embedded_url": "https://www.youtube.com/embed/sdE0A2Oxofw",
+                    "channel": "take U forward"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/t_f0nwwdg5o",
-                    "channel": "take U forward"
+                    "embedded_url": "https://www.youtube.com/embed/rBAxUTqvlQA",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/6qMFjFC9YSc",
@@ -5322,6 +5322,10 @@
                     "channel": "NeetCodeIO"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/TmhpgXScLyY",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/z6kelCB0ww4",
                     "channel": "Techdose"
                 },
@@ -5332,10 +5336,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/nZSXWXzn1aM",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/TmhpgXScLyY",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -5647,12 +5647,12 @@
             "acceptance": 0.52563,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/OEW50g03mT0",
-                    "channel": "Nick White"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/keuWJ47xG8g",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/OEW50g03mT0",
+                    "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/ZUt8L8cbbBI",
@@ -5819,12 +5819,16 @@
             "acceptance": 0.37753,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/3MyA0dj-_2c",
-                    "channel": "GoodTecher"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/zdMhGxRWutQ",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/Bsv3FPUX_BA",
+                    "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/3MyA0dj-_2c",
+                    "channel": "GoodTecher"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/eC0b6lUj84w",
@@ -5833,10 +5837,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/8j6JKRu38q4",
                     "channel": "hi-malik"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/p8EkGkUZZgE",
-                    "channel": "code Explainer"
                 }
             ],
             "companies": [
@@ -5911,6 +5911,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/mLfjzJsN8us",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/uHAToNgAPaM",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -5921,10 +5925,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/in3Fpx8-eOY",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/d1MY2dQXuss",
-                    "channel": "if else statement"
                 }
             ],
             "companies": [
@@ -6087,6 +6087,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/fJaKO8FbDdo",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/MiqoA-yF-0M",
                     "channel": "Back To Back SWE"
                 },
@@ -6097,10 +6101,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/AuYujVj646Q",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Q4i_rqON2-E",
-                    "channel": "Hua Hua"
                 }
             ],
             "companies": [
@@ -6175,12 +6175,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/djt9mwch-Xo",
-                    "channel": "Code with Alisha"
+                    "embedded_url": "https://www.youtube.com/embed/N0MgLvceX7M",
+                    "channel": "take U forward"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/M65xBewcqcI",
-                    "channel": "take U forward"
+                    "embedded_url": "https://www.youtube.com/embed/djt9mwch-Xo",
+                    "channel": "Code with Alisha"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/dSxt3ZCbIqA",
@@ -6350,16 +6350,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/tp8JIuCXBaU",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/uvB-Ns_TVis",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/sEQk8xgjx64",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/oaVa-9wmpns",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/vhBGYkMtASg",
@@ -6438,6 +6438,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/WJaij9ffOIY",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/e1HlptlipB0",
                     "channel": "Pepcoding"
                 },
@@ -6448,10 +6452,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/U1q16AFcjKs",
                     "channel": "Michael Muinos"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/CX6_L9GLldU",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -6602,6 +6602,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/b7AYbpM5YrE",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/LdtQAYdYLcE",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -6612,10 +6616,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/h4zNvA4lbtc",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/1BbeOUkUOak",
-                    "channel": "Knowledge Center"
                 }
             ],
             "companies": [
@@ -6853,6 +6853,10 @@
             "acceptance": 0.3707,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/w2G2W8l__pc",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/tzTi0itKCb8",
                     "channel": "Timothy H Chang"
                 },
@@ -6867,10 +6871,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/dH30QZ9I2SE",
                     "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/XsAK1r3BmJk",
-                    "channel": "Algorithms Made Easy"
                 }
             ],
             "companies": [
@@ -6938,6 +6938,10 @@
             "acceptance": 0.46308,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/p10f-VpO4nE",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/R6-PnHODewY",
                     "channel": "Algorithms Made Easy"
                 },
@@ -6952,10 +6956,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/9iJ3UsB9vMo",
                     "channel": "Ayushi Sharma"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/p10f-VpO4nE",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -7102,12 +7102,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/vcv3REtIvEo",
-                    "channel": "Techdose"
+                    "embedded_url": "https://www.youtube.com/embed/Bzat9vgD0fs",
+                    "channel": "take U forward"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/X0X6G-eWgQ8",
-                    "channel": "take U forward"
+                    "embedded_url": "https://www.youtube.com/embed/vcv3REtIvEo",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/IGBmc3i-V00",
@@ -7186,12 +7186,16 @@
             "acceptance": 0.45527,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/dAVF2NpC3j4",
-                    "channel": "Techdose"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/zx5Sw9130L0",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/tOylVCugy9k",
+                    "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/dAVF2NpC3j4",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/bgWt2qtFhbQ",
@@ -7200,10 +7204,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Psd_SSYxuYM",
                     "channel": "Huifeng Guan"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/tOylVCugy9k",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -7395,6 +7395,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/n7uwj04E0I4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/73lyz0EZye8",
                     "channel": "Ayushi Sharma"
                 },
@@ -7405,10 +7409,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/C4oBXLr3zos",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/0H6038ldSyg",
-                    "channel": "Technosage"
                 }
             ],
             "companies": [
@@ -7540,6 +7540,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/RIn3gOkbhQE",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/mcg4qKbAmmY",
                     "channel": "Fraz"
                 },
@@ -7550,10 +7554,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/FUZY-YJ53w8",
                     "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/MtZ_nMh_2vI",
-                    "channel": "jayati tiwari"
                 }
             ],
             "companies": [
@@ -7879,6 +7879,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/lxTGsVXjwvM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/WZwNoTm_9d8",
                     "channel": "Nick White"
                 },
@@ -7889,10 +7893,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/pnVw3yo-3Kg",
                     "channel": "Hello World"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/lxTGsVXjwvM",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -7948,12 +7948,12 @@
             "acceptance": 0.55946,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/A7OII4X4cw0",
-                    "channel": "Happy Coding"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/Ox0TenN3Zpg",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/A7OII4X4cw0",
+                    "channel": "Happy Coding"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/qOItdXuTZGo",
@@ -8170,16 +8170,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/f-sj7I5oXEI",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/gGsEVFP0aQo",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/iU0n2SoRA8M",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/f-sj7I5oXEI",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/KPqVR66F20s",
@@ -8254,12 +8254,12 @@
             "acceptance": 0.51728,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/bJBwOMPhe6Y",
-                    "channel": "Timothy H Chang"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/ZWGW7FminDM",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/bJBwOMPhe6Y",
+                    "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/2uPKWpMHmZA",
@@ -8330,6 +8330,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/BhuvF_-PWS0",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/d3X7TtN1FB8",
                     "channel": "Fraz"
                 },
@@ -8340,10 +8344,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/LMh8cO992AM",
                     "channel": "if else statement"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/omSZXZveTuc",
-                    "channel": "Algorithms Made Easy"
                 }
             ],
             "companies": [
@@ -8413,6 +8413,10 @@
                     "channel": "NeetCodeIO"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/nKggNAiEpBE",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/-5E5Jt_HKLc",
                     "channel": "Nick White"
                 },
@@ -8423,10 +8427,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/qNH6fFdb6Hs",
                     "channel": "thecodingworld"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/XHML8ilzESo",
-                    "channel": "AlgoSolve"
                 }
             ],
             "companies": [
@@ -8498,6 +8498,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/EoAsWbO7sqg",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/XZnWETlZZ14",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -8508,10 +8512,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/sFDNL6r5aDM",
                     "channel": "Fisher Coder"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/0uqhIo6M-JE",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -8586,16 +8586,16 @@
                     "channel": "NeetCodeIO"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/3OXWEdlIGl4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/AS4VzB4Vojs",
                     "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Fy_udhB395A",
                     "channel": "DEEPTI TALESRA"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/3OXWEdlIGl4",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/YBw5JRZK9_g",
@@ -8672,6 +8672,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/eD3tmO66aBA",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/MARxXuqnVGw",
                     "channel": "Nick White"
                 },
@@ -8682,10 +8686,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/AhX_hEVvRTk",
                     "channel": "Fraz"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/UDifXyZp0dQ",
-                    "channel": "Knowledge Center"
                 }
             ],
             "companies": [
@@ -8760,16 +8760,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/aZNaLrVebKQ",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/GeltTz3Z1rw",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/pyzHW_qDwi0",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/aZNaLrVebKQ",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/FBpQEQkQ1No",
@@ -9062,12 +9062,12 @@
             "acceptance": 0.60716,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/cH9-SC3JNRk",
-                    "channel": "Timothy H Chang"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/0K0uCMYq5ng",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/cH9-SC3JNRk",
+                    "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/5IQF13nNq6A",
@@ -9148,6 +9148,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/Yt50Jfbd8Po",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/LU4fGD-fgJQ",
                     "channel": "Back To Back SWE"
                 },
@@ -9158,10 +9162,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/PlpfA6-Ga5A",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/zu22twD5QI4",
-                    "channel": "Xavier Elon"
                 }
             ],
             "companies": [
@@ -9455,6 +9455,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/sWf7k1x9XR4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/vssbwPkarPQ",
                     "channel": "Nick White"
                 },
@@ -9465,10 +9469,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/k3TsEr17mog",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/sWf7k1x9XR4",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -9522,6 +9522,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/nVG7eTiD2bY",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/aV-OEO-eNJQ",
                     "channel": "Code with Alisha"
                 },
@@ -9532,10 +9536,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/pPsuzQ_NIX0",
                     "channel": "code Explainer"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/9UEHPiK53BA",
-                    "channel": "Pepcoding"
                 }
             ],
             "companies": [
@@ -9683,16 +9683,16 @@
             "acceptance": 0.5086,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/U4hFQCa1Cq0",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/OHtr6qwM68o",
                     "channel": "babybear4812"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/68RmOoq-OSs",
                     "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/U4hFQCa1Cq0",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/yl-fdkyQD8A",
@@ -9757,16 +9757,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/bR7mQgwQ_o8",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/icoql2WKmbA",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Q1lj9B33Euc",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/6FLvhQjZqvM",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/MzdzJuvzmS4",
@@ -9841,6 +9841,10 @@
             "acceptance": 0.614,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/6FLvhQjZqvM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/IWXZAvBIuyE",
                     "channel": "Knowledge Center"
                 },
@@ -9851,10 +9855,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/CcVH6LAJp2M",
                     "channel": "Naresh Gupta"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/6FLvhQjZqvM",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Q1lj9B33Euc",
@@ -9909,6 +9909,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/OM1MTokvxs4",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/SrP-PiLSYC0",
+                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/1IL5sxfoA-I",
@@ -9994,6 +9998,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/excAOvwF_Wk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/3RHCb8LY-X4",
                     "channel": "Nick White"
                 },
@@ -10004,10 +10012,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/E2-heUEnZKU",
                     "channel": "Nikhil Lohia"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/9ZMMNyHy3z4",
-                    "channel": "ThinkFWD"
                 }
             ],
             "companies": [
@@ -10082,6 +10086,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/nGJmxkUJQGs",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/blUwDD6JYaE",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -10092,10 +10100,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/K8iHi8AW1ls",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/XcJyzicbGn8",
-                    "channel": "Algorithms Made Easy"
                 }
             ],
             "companies": [
@@ -10166,6 +10170,10 @@
             "acceptance": 0.46468,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/-uQGzhYj8BQ",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/37s1_xBiqH0",
                     "channel": "Techdose"
                 },
@@ -10180,10 +10188,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/q4Vr307dOzs",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/0FKn0FSIQYE",
-                    "channel": "Knowledge Center"
                 }
             ],
             "companies": [
@@ -10252,12 +10256,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/TO5zsKtc1Ic",
-                    "channel": "Techdose"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/WszrfSwMz58",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/TO5zsKtc1Ic",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/cajtJQQpbyI",
@@ -10340,6 +10344,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/twuC1F6gLI8",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/rYyn9Vc-dBQ",
                     "channel": "Nick White"
                 },
@@ -10350,10 +10358,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/ANmSVWeOsUA",
                     "channel": "Technosage"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/028pTf2kBFI",
-                    "channel": "Knowledge Center"
                 }
             ],
             "companies": [
@@ -10424,12 +10428,12 @@
             "acceptance": 0.27407,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/mIZJIuMpI2M",
-                    "channel": "Techdose"
+                    "embedded_url": "https://www.youtube.com/embed/AD4SFl7tu7I",
+                    "channel": "take U forward"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/DREutrv2XD0",
-                    "channel": "take U forward"
+                    "embedded_url": "https://www.youtube.com/embed/mIZJIuMpI2M",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/rWd4wScVYxc",
@@ -10594,6 +10598,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/oO5uLE7EUlM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/sHrb6phW3IA",
                     "channel": "Nick White"
                 },
@@ -10604,10 +10612,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/pLzOp2_Y9Vk",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/qgizvmgeyUM",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -10753,6 +10757,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/BtdgAys4yMk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/ztTLGMeleco",
                     "channel": "Nick White"
                 },
@@ -10763,10 +10771,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/rgx0IEoJjI0",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/BtdgAys4yMk",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -10841,7 +10845,7 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/WBgsABoClE0",
+                    "embedded_url": "https://www.youtube.com/embed/_H8V5hJUGd0",
                     "channel": "take U forward"
                 },
                 {
@@ -10929,6 +10933,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/_H8V5hJUGd0",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/-E8E3wPNRBo",
                     "channel": "Timothy H Chang"
                 },
@@ -10939,10 +10947,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/EznXDMZoamI",
                     "channel": "happygirlzt"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/qmTtAbOTqcg",
-                    "channel": "Pepcoding"
                 }
             ],
             "companies": [
@@ -11173,6 +11177,10 @@
             "acceptance": 0.41201,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/IIqVFvKE6RY",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/h6_lIwZYHQw",
                     "channel": "Techdose"
                 },
@@ -11187,10 +11195,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Ya-LfQ0OBkU",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/PzBYQA6FshA",
-                    "channel": "Code with Alisha"
                 }
             ],
             "companies": [
@@ -11262,6 +11266,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/bYWLJb3vCWY",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/CvnnCZQY2A0",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -11272,10 +11280,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/1LyAr7sgkZQ",
                     "channel": "Fraz"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/cOFAmaMBVps",
-                    "channel": "Techdose"
                 }
             ],
             "companies": [
@@ -11407,6 +11411,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/q570bKdrnlw",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/OvpKeraoxW0",
                     "channel": "Back To Back SWE"
                 },
@@ -11417,10 +11425,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/xmQb5y1D8gU",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/ctFmFbeyTVU",
-                    "channel": "Fraz"
                 }
             ],
             "companies": [
@@ -11579,6 +11583,10 @@
             "acceptance": 0.45993,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/Sx9NNgInc3A",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/fNVs1J2KCyo",
                     "channel": "Techdose"
                 },
@@ -11591,16 +11599,8 @@
                     "channel": "Naresh Gupta"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/Sx9NNgInc3A",
-                    "channel": "NeetCode"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/8DV-cXg6Rh0",
                     "channel": "Cracking FAANG"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/QgLKdluDo08",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -11669,6 +11669,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/wiOo4DC5GGA",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/6OrZ4wAy4uE",
                     "channel": "Nick White"
                 },
@@ -11679,10 +11683,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/OQtvTZxA7-k",
                     "channel": "Nikhil Lohia"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Yn5xqbK95Uw",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -11753,6 +11753,14 @@
             "acceptance": 0.49666,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/gBTe7lFR3vc",
+                    "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/2Kd0KKmmHFc",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/Yn5xqbK95Uw",
                     "channel": "Timothy H Chang"
                 },
@@ -11763,14 +11771,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/wqWv6hHTvyc",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/gBTe7lFR3vc",
-                    "channel": "NeetCode"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/UmudS7EXz6o",
-                    "channel": "Sai Anish Malla"
                 }
             ],
             "companies": [
@@ -11927,16 +11927,16 @@
                     "channel": "NeetCodeIO"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/RlUu72JrOCQ",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/vMHaqhiTn7Y",
                     "channel": "Fisher Coder"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/pUSy6UZCFKw",
                     "channel": "DEEPTI TALESRA"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Bfqd8BsPVuw",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/ihj4IQGZ2zc",
@@ -11988,6 +11988,10 @@
                     "channel": "NeetCodeIO"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/2YBhNLodD8Q",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/sMI4RBEZyZ4",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -11998,10 +12002,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/PiqIXedWhoY",
                     "channel": "leetuition"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/cXeNgWhpPQk",
-                    "channel": "CodingWithPrince"
                 }
             ],
             "companies": [
@@ -12050,7 +12050,7 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/xDEuM5qa0zg",
+                    "embedded_url": "https://www.youtube.com/embed/z9bJUPxzFOw",
                     "channel": "take U forward"
                 },
                 {
@@ -12200,6 +12200,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/8ocB7a_c-Cc",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/pNTc1bM1z-4",
                     "channel": "Nick White"
                 },
@@ -12210,10 +12214,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Lay55DGfyhA",
                     "channel": "Naresh Gupta"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/M1TwY0nsTZA",
-                    "channel": "Hua Hua"
                 }
             ],
             "companies": [
@@ -12278,12 +12278,12 @@
             "acceptance": 0.25587,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/Y8_WxLKYQ6Q",
-                    "channel": "code Explainer"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/Bb9lOXUOnFw",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/Y8_WxLKYQ6Q",
+                    "channel": "code Explainer"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/DTeFavNYkLk",
@@ -12453,16 +12453,16 @@
             "acceptance": 0.35468,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/_d0T_2Lk2qA",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/vhnRAaJybpA",
                     "channel": "Knowledge Center"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/tX-ZcKTNwYk",
                     "channel": "Technosage"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/_d0T_2Lk2qA",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/U58YRqyAulg",
@@ -12535,16 +12535,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/hnswaLJvr6g",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/QQVCKkImH_s",
                     "channel": "Xavier Elon"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/hJ_Uy2DzE08",
                     "channel": "Knowledge Center"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/hnswaLJvr6g",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/keVevSvaDKo",
@@ -12623,6 +12623,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/nhEMDKMB44g",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/IzHR_U8Ly6c",
                     "channel": "Nick White"
                 },
@@ -12633,10 +12637,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/OXkLNPalfRs",
                     "channel": "Knowledge Center"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Kcj2NGnuSNg",
-                    "channel": "Pepcoding"
                 }
             ],
             "companies": [
@@ -12768,6 +12768,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/NdDIaH91P0g",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/WxCuL3jleUA",
                     "channel": "Nick White"
                 },
@@ -12778,10 +12782,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/OGtlf5z6lsg",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/wePWCZjtrOo",
-                    "channel": "Hello World"
                 }
             ],
             "companies": [
@@ -13055,6 +13055,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/0DYoPz2Tpt4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/IpBfg9d4dmQ",
                     "channel": "Nick White"
                 },
@@ -13065,10 +13069,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/tKFCkGPvc_U",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/0JHQ26NQcPk",
-                    "channel": "Nikhil Lohia"
                 }
             ],
             "companies": [
@@ -13210,6 +13210,10 @@
                     "channel": "NeetCodeIO"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/cXxmbemS6XM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/CFgUQUL7j_c",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -13220,10 +13224,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/OINnBJTRrMU",
                     "channel": "Aditya Verma"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/tQpg6kcSAoY",
-                    "channel": "Cracking FAANG"
                 }
             ],
             "companies": [
@@ -13731,7 +13731,7 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/AoX3BPWNnoE",
+                    "embedded_url": "https://www.youtube.com/embed/nP_ns3uSh80",
                     "channel": "take U forward"
                 },
                 {
@@ -13991,12 +13991,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/JnXUZ4DN_xw",
-                    "channel": "Timothy H Chang"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/D2jMcmxU4bs",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/JnXUZ4DN_xw",
+                    "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/C8iHdhXjKC4",
@@ -15058,12 +15058,12 @@
             "acceptance": 0.40364,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/6928FkPhGUA",
-                    "channel": "Techdose"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/IV1dHbk5CDc",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/6928FkPhGUA",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/qSGdZfkQ8C8",
@@ -15144,6 +15144,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/wvcQg43_V8U",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/gmu0RA5_zxs",
                     "channel": "Nick White"
                 },
@@ -15154,10 +15158,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Qi0EEUvrufY",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/ENcnXXiRT6E",
-                    "channel": "Hello World"
                 }
             ],
             "companies": [
@@ -15320,6 +15320,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/nttpF8kwgd4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/wLHhAHkID9M",
                     "channel": "Algorithms Made Easy"
                 },
@@ -15330,10 +15334,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/pAN7bz5dMxo",
                     "channel": "FAANG Interviews"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/wWOPH3TVMHc",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -15765,6 +15765,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/GrMBfJNk_NY",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/ZwDDLAeeBM0",
                     "channel": "Nick White"
                 },
@@ -15849,6 +15853,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/KV4mRzTjlAk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/xyHb_ghpXf4",
                     "channel": "Nick White"
                 },
@@ -15859,10 +15867,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/3XiIUDOhVwk",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/hDgFqdGM7Y4",
-                    "channel": "Ayushi Sharma"
                 }
             ],
             "companies": [
@@ -15937,6 +15941,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/muncqlKJrH0",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/__98uL6wst8",
                     "channel": "Techdose"
                 },
@@ -15947,10 +15955,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/FGjqL2330qM",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/sduu1n5uZUE",
-                    "channel": "Errichto"
                 }
             ],
             "companies": [
@@ -16249,6 +16253,10 @@
             "acceptance": 0.33242,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/g5Fuxn_AvSk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/5LMkddl2NCk",
                     "channel": "Algorithms Made Easy"
                 },
@@ -16263,10 +16271,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/R6zyD06Yn3k",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/ZR9BwOuV6h8",
-                    "channel": "Naresh Gupta"
                 }
             ],
             "companies": [
@@ -16423,6 +16427,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/u3WUW2qe6ww",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/NhapasNIKuQ",
                     "channel": "Nick White"
                 },
@@ -16505,6 +16513,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/EgI5nU9etnU",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/zQ3zgFypzX4",
+                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/yPldqMtg-So",
@@ -16591,6 +16603,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/dBGUmUQhjaM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/KX2GdDZPxQA",
                     "channel": "Timothy H Chang"
                 },
@@ -16601,10 +16617,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/xqsaAhQC6c8",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Br7Wt4V5o1c",
-                    "channel": "Fisher Coder"
                 }
             ],
             "companies": [
@@ -16767,6 +16779,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/WAOfKpxYHR8",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/qe_pQCh09yU",
                     "channel": "Techdose"
                 },
@@ -16777,10 +16793,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/sQnIdYxxmeE",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/WAOfKpxYHR8",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -17735,6 +17747,10 @@
             "acceptance": 0.61785,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/u-yWemKGWO0",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/4wPlA_InnGY",
                     "channel": "Coding Beats"
                 },
@@ -17749,10 +17765,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/JxIf7Rs9nPw",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/u-yWemKGWO0",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -17955,6 +17967,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/tqQ5fTamIN4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/IPI5r_gDRM4",
                     "channel": "Ayushi Sharma"
                 },
@@ -17965,10 +17981,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/8YUfeoRUQa0",
                     "channel": "Hello World"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Y0lEzbredVU",
-                    "channel": "Paritosh Wankhade"
                 }
             ],
             "companies": [
@@ -18276,7 +18288,7 @@
             "acceptance": 0.46457,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/yDbkQd9t2ig",
+                    "embedded_url": "https://www.youtube.com/embed/vwZj1K0e9U8",
                     "channel": "take U forward"
                 },
                 {
@@ -18365,6 +18377,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/9TJYWh0adfk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/C6r1fDKAW_o",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -18375,10 +18391,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/duN4k6QPwBQ",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/9TJYWh0adfk",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -18449,6 +18461,10 @@
             "acceptance": 0.46198,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/nttpF8kwgd4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/4cqHahxFTYw",
                     "channel": "Techdose"
                 },
@@ -18463,10 +18479,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/ta17SZ_t-_M",
                     "channel": "Technosage"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/ZixRC6stfMg",
-                    "channel": "Knowledge Center"
                 }
             ],
             "companies": [
@@ -18535,6 +18547,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/tqQ5fTamIN4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/nPvjcQBplH4",
                     "channel": "HelmyCodeCamp"
                 },
@@ -18545,10 +18561,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Wg8IiY1LbII",
                     "channel": "Back To Back SWE"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/3Et9MrMc02A",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -18683,6 +18695,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/lRY_G-u_8jk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/wk4QsvwQwdQ",
                     "channel": "Nick White"
                 },
@@ -18693,10 +18709,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Ll9ZbXaXqlQ",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/cFLTe6hC0-o",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -18771,12 +18783,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/6POfA8fruxI",
-                    "channel": "Nick White"
+                    "embedded_url": "https://www.youtube.com/embed/cX_kPV_foZc",
+                    "channel": "take U forward"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/_-QHfMDde90",
-                    "channel": "take U forward"
+                    "embedded_url": "https://www.youtube.com/embed/6POfA8fruxI",
+                    "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/KobQcxdaZKY",
@@ -18859,6 +18871,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/_-QHfMDde90",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/WO1tfq2sbsI",
                     "channel": "Cracking FAANG"
                 },
@@ -18869,10 +18885,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/6POfA8fruxI",
                     "channel": "Nick White"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/9wWHSq0YDl8",
-                    "channel": "Timothy H Chang"
                 }
             ],
             "companies": [
@@ -18942,16 +18954,16 @@
             "acceptance": 0.76899,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/VaECK03Dz-g",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/urzP1YbgUnU",
                     "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/L9T-4adhoVM",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/icnp4FJdZ_c",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/ruat4x3OwQc",
@@ -19106,6 +19118,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/NwBvene4Imo",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/LiSdD3ljCIE",
                     "channel": "Techdose"
                 },
@@ -19116,10 +19132,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/fbkvdWUS5Ic",
                     "channel": "Jessica Lin"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/CZQGRp93K4k",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -19190,6 +19202,14 @@
             "acceptance": 0.51447,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/Ber2pi2C0j0",
+                    "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/9ZbB397jU4k",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/xxvPcn9eoS0",
                     "channel": "Timothy H Chang"
                 },
@@ -19200,14 +19220,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/CbQQdc7_HBA",
                     "channel": "Naresh Gupta"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/iZ4xURJa0oQ",
-                    "channel": "Pepcoding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Ber2pi2C0j0",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -20370,6 +20382,14 @@
             "acceptance": 0.67857,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/faoVORjd-T8",
+                    "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/UA5JnV1J2sI",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/L-EaPf5tD5A",
                     "channel": "Knowledge Center"
                 },
@@ -20380,18 +20400,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/dF4wL3BiYiA",
                     "channel": "Ren Zhang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/wPBKH1jy0_E",
-                    "channel": "Codebix"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/LxcX_NVHep4",
-                    "channel": "\u8d3e\u8003\u535a"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/faoVORjd-T8",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -20731,6 +20739,10 @@
             "acceptance": 0.53793,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/-w67-4tnH5U",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/jGywRalvoRw",
                     "channel": "Pepcoding"
                 },
@@ -20741,10 +20753,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/baAIVIENhF8",
                     "channel": "Programming Live with Larry"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/-w67-4tnH5U",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -20945,16 +20953,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/U3N_je7tWAs",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/LA0X_N-dEsg",
                     "channel": "happygirlzt"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/jK5a8T9q4pc",
                     "channel": "Algorithms Made Easy"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/U3N_je7tWAs",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -21464,6 +21472,10 @@
             "acceptance": 0.46773,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/cEadsbTeze4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/LZJBZEnoYLQ",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -21478,10 +21490,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/LtGnA5L6LIk",
                     "channel": "GeeksforGeeks"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Woma70JhE0Y",
-                    "channel": "Xavier Elon"
                 }
             ],
             "companies": [
@@ -21807,6 +21815,10 @@
             "acceptance": 0.39265,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/Nq7ok-OyEpg",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/tunRDBsP7OQ",
                     "channel": "Cracking FAANG"
                 },
@@ -21821,10 +21833,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/EcG4Tg9AjGs",
                     "channel": "Huifeng Guan"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/WcgjFrZceU8",
-                    "channel": "Coding Decoded"
                 }
             ],
             "companies": [
@@ -21878,6 +21886,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/wvcQg43_V8U",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/PNJoyRaIW7U",
                     "channel": "Techdose"
                 },
@@ -21888,10 +21900,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/dVPzHCP4cy0",
                     "channel": "Eric Programming"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/k5lIW5XxC7g",
-                    "channel": "Nikhil Lohia"
                 }
             ],
             "companies": [
@@ -22009,12 +22017,12 @@
             "acceptance": 0.48987,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/vo794ruCJnU",
-                    "channel": "Cracking FAANG"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/SXKAD2svfmI",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/vo794ruCJnU",
+                    "channel": "Cracking FAANG"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/0IazzG1JAQw",
@@ -22597,16 +22605,16 @@
             "acceptance": 0.51959,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/dJ7sWiOoK7g",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/rjOTv7dzqC8",
                     "channel": "Kevin Naughton Jr."
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/RHK53uZjLn8",
                     "channel": "\u8d3e\u8003\u535a"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/dJ7sWiOoK7g",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/lWWa-F75paY",
@@ -23003,6 +23011,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/on2hvxBXJH4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/hQikNRWoTFM",
                     "channel": "Timothy H Chang"
                 },
@@ -23013,10 +23025,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/CE2b_-XfVDk",
                     "channel": "Tushar Roy - Coding Made Simple"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/jSvoE-_Yhs4",
-                    "channel": "Nick White"
                 }
             ],
             "companies": [
@@ -23356,12 +23364,12 @@
             "acceptance": 0.396,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/Rn6B-Q4SNyA",
-                    "channel": "take U forward"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/pV2kpPD66nE",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/Rn6B-Q4SNyA",
+                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/__98uL6wst8",
@@ -23475,16 +23483,16 @@
             "acceptance": 0.40727,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/KE8MQuwE2yA",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/G9GRvQRtGOc",
                     "channel": "Happy Coding"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/T_xe9p7-zwQ",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/KE8MQuwE2yA",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/k5Im14rNUFA",
@@ -23530,12 +23538,12 @@
             "acceptance": 0.43181,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/tk0Twx2VQy8",
-                    "channel": "Techdose"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/KE8MQuwE2yA",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/tk0Twx2VQy8",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/rkLDDxOcJxU",
@@ -23650,6 +23658,10 @@
             "acceptance": 0.38623,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/wQGQnyv_9hI",
+                    "channel": "NeetCodeIO"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/ivl6BHJVcB0",
                     "channel": "Algorithms Made Easy"
                 },
@@ -23664,14 +23676,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/OsvbLAaRmu8",
                     "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/pUtxTz134qM",
-                    "channel": "\u5c71\u666f\u57ce\u4e00\u59d0"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/wQGQnyv_9hI",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -23797,6 +23801,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/Yz4LlDSlkns",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/IFNibRVgFBo",
                     "channel": "Tushar Roy - Coding Made Simple"
                 },
@@ -23807,10 +23815,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/uG_MtaCJIrM",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Yz4LlDSlkns",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -24477,6 +24481,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/myPeWb3Y68A",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/4S5x4SF4fsM",
                     "channel": "Timothy H Chang"
                 },
@@ -24678,12 +24686,16 @@
             "acceptance": 0.49272,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/ReZpa5vxRKc",
-                    "channel": "Happy Coding"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/fFVZt-6sgyo",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/frf7qxiN2qU",
+                    "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/ReZpa5vxRKc",
+                    "channel": "Happy Coding"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/AmlVSNBHzJg",
@@ -24692,10 +24704,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/HbbYPQc-Oo4",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/QGsQtnAXkuk",
-                    "channel": "\u8d3e\u8003\u535a"
                 }
             ],
             "companies": [
@@ -24860,6 +24868,10 @@
             "acceptance": 0.61325,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/qf6qp7GzD5Q",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/C_LA6SOwVTM",
                     "channel": "Nick White"
                 },
@@ -24874,10 +24886,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/_VHInOZbp6A",
                     "channel": "Ayushi Sharma"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/WoUAs7R3Ao4",
-                    "channel": "Nikhil Lohia"
                 }
             ],
             "companies": [
@@ -25207,12 +25215,12 @@
             "acceptance": 0.43013,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/jhp9chdOaP0",
-                    "channel": "\u8d3e\u8003\u535a"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/X0oXMdtUDwo",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/jhp9chdOaP0",
+                    "channel": "\u8d3e\u8003\u535a"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/ChZPl1Zq1os",
@@ -25649,6 +25657,10 @@
             "acceptance": 0.48285,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/teM9ZsVRQyc",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/xSRktgNwHKw",
                     "channel": "Happy Coding"
                 },
@@ -25663,10 +25675,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/qficje_8OlI",
                     "channel": "\u8d3e\u8003\u535a"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/1sFL8yjMcwM",
-                    "channel": "That Indian Coder"
                 }
             ],
             "companies": [
@@ -26210,6 +26218,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/3oI-34aPMWM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/Wh3A29psE_Y",
                     "channel": "Techdose"
                 },
@@ -26220,10 +26232,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/4F06B-fYT9M",
                     "channel": "Ayushi Sharma"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/EBNPu0GgM64",
-                    "channel": "Nikhil Lohia"
                 }
             ],
             "companies": [
@@ -27093,6 +27101,10 @@
             "acceptance": 0.55213,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/w1o81gbEEJU",
+                    "channel": "NeetCodeIO"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/2b7f197Jw6k",
                     "channel": "\u8d3e\u8003\u535a"
                 },
@@ -27103,10 +27115,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/S5eOWsOF3cw",
                     "channel": "Code-Yao"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/w1o81gbEEJU",
-                    "channel": "NeetCodeIO"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/MQ2i4T1l-Gs",
@@ -27562,16 +27570,16 @@
             "acceptance": 0.42009,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/gDuZwBW9VvM",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/Wv6DlL0Sawg",
                     "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/8tDM_pfmlrw",
                     "channel": "Knowledge Center"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/gDuZwBW9VvM",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/bech4HH44Rs",
@@ -27624,6 +27632,10 @@
             "acceptance": 0.60972,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/aXQWhbvT3w0",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/6bh8bKxT9o8",
                     "channel": "\u8d3e\u8003\u535a"
                 },
@@ -27638,10 +27650,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/di_jUp3tWUI",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/C_LA6SOwVTM",
-                    "channel": "Nick White"
                 }
             ],
             "companies": [
@@ -28356,6 +28364,10 @@
             "acceptance": 0.35459,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/j4KwhBziOpg",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/a-UYY_DvCBY",
                     "channel": "Pepcoding"
                 },
@@ -28366,10 +28378,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/fnruRGJZApg",
                     "channel": "Donald Dang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/j4KwhBziOpg",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/mRTgft9sBhA",
@@ -28570,16 +28578,16 @@
             "acceptance": 0.57942,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/IvIKD_EU8BY",
+                    "channel": "NeetCodeIO"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/NCpXQshJEk4",
                     "channel": "Naresh Gupta"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/7HZmP8r1FBE",
                     "channel": "Coding Interview Prep"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/IvIKD_EU8BY",
-                    "channel": "NeetCodeIO"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/LSNxktnyoh8",
@@ -29737,6 +29745,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/jmbuRzYPGrg",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/3QJzHqNAEXs",
                     "channel": "Techdose"
                 },
@@ -29747,10 +29759,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/vbM41Zql228",
                     "channel": "Nick White"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/dqHw4vOwXn8",
-                    "channel": "Programming Tutorials"
                 }
             ],
             "companies": [
@@ -30231,6 +30239,10 @@
             "acceptance": 0.53978,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/XYQecbcd6_c",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/J_Di2LmeLBQ",
                     "channel": "Knowledge Center"
                 },
@@ -30239,20 +30251,12 @@
                     "channel": "Nick White"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/XYQecbcd6_c",
-                    "channel": "NeetCode"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/ci4PIq1NWoU",
                     "channel": "Sai Anish Malla"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/noaGOtGmCzs",
                     "channel": "Naresh Gupta"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/_g9jrLuAphs",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -30306,6 +30310,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/thUd_WJn6wk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/bcAwHkL7A3A",
                     "channel": "Code with Alisha"
                 },
@@ -30316,10 +30324,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/eq6dAJefOqc",
                     "channel": "Pepcoding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/wLXMu_XJnLo",
-                    "channel": "Ayushi Sharma"
                 }
             ],
             "companies": [
@@ -30737,6 +30741,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/7win3dcgo3k",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/3N47yKRDed0",
                     "channel": "Kevin Naughton Jr."
                 },
@@ -31072,6 +31080,10 @@
             "acceptance": 0.53765,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/EIhAwfHubE8",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/KgkOp17GzeY",
                     "channel": "Timothy H Chang"
                 },
@@ -31086,10 +31098,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/xheOEvLI5ps",
                     "channel": "Leetcodes"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/HAuqbJojVPk",
-                    "channel": "Naresh Gupta"
                 }
             ],
             "companies": [
@@ -31217,6 +31225,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/_eNhaDCr6P0",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/00FmUN1pkGE",
                     "channel": "Nick White"
                 },
@@ -31227,10 +31239,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/BxPumYrP1lk",
                     "channel": "Coding Samurai's"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/XPM6xM3x9KI",
-                    "channel": "Cg Tutorials"
                 }
             ],
             "companies": [
@@ -31748,6 +31756,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/HDHQ8lAWakY",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/BTObFnHbD4U",
                     "channel": "Techdose"
                 },
@@ -31758,10 +31770,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/nXBQJoS1W8A",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/BW7LeuJIMhE",
-                    "channel": "Knowledge Center"
                 }
             ],
             "companies": [
@@ -32424,12 +32432,12 @@
             "acceptance": 0.60999,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/LKqUXBZTN-8",
-                    "channel": "Naresh Gupta"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/wgFPrzTjm7s",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/LKqUXBZTN-8",
+                    "channel": "Naresh Gupta"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Yc9buffV1G0",
@@ -32676,16 +32684,16 @@
             "acceptance": 0.57208,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/lP2yP8Iy88c",
-                    "channel": "Naresh Gupta"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/u4JAi2JJhI8",
                     "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/-YbXySKJsX8",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/lP2yP8Iy88c",
+                    "channel": "Naresh Gupta"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/sw4mNP23-v0",
@@ -32732,12 +32740,12 @@
                     "channel": "NeetCodeIO"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/wMyWHO9F1OM",
-                    "channel": "Timothy H Chang"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/kouxiP_H5WE",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/wMyWHO9F1OM",
+                    "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/LyHK6_I3aUY",
@@ -33041,6 +33049,10 @@
             "acceptance": 0.57151,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/EYeR-_1NRlQ",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/XHlA0KdvQBc",
                     "channel": "Naresh Gupta"
                 },
@@ -33055,10 +33067,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/VFYFN-d7ad8",
                     "channel": "Coders Camp"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/EYeR-_1NRlQ",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -33093,6 +33101,10 @@
             "acceptance": 0.49805,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/DIX2p7vb9co",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/EX2jEKJnzw4",
                     "channel": "Nick White"
                 },
@@ -33107,10 +33119,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/1JDh9O7GDyA",
                     "channel": "Kevin Naughton Jr."
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/_Jwa1eYsKak",
-                    "channel": "Aman Shrivastava"
                 }
             ],
             "companies": [
@@ -33906,16 +33914,16 @@
             "acceptance": 0.26659,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/61tN4YEdiTM",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/EB5FAwHqpm4",
                     "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/L-lRvgoICHM",
                     "channel": "Knowledge Center"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/61tN4YEdiTM",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/z-Ij2iQdg5s",
@@ -34062,16 +34070,16 @@
             "acceptance": 0.50535,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/B1k_sxOSgv8",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/fe2wvdUEmtQ",
                     "channel": "Happy Coding"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/B8uSIMh_fFI",
                     "channel": "WorkWithGoogler"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/B1k_sxOSgv8",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/6f0pLQYG834",
@@ -34467,6 +34475,10 @@
             "acceptance": 0.32282,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/aoHbYlO8vDg",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/gfP8wKBPV64",
                     "channel": "Math Geeks"
                 },
@@ -34477,10 +34489,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/6rzIWgmhhpI",
                     "channel": "Fearless Learner"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/aoHbYlO8vDg",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Eit3Uz9eJAg",
@@ -34586,6 +34594,10 @@
             "acceptance": 0.50862,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/UbyhOgBN834",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/TrLZ6TA9bKg",
                     "channel": "Code Crusaders"
                 },
@@ -34600,10 +34612,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/7V5sHgZi2lg",
                     "channel": "H William Polenz"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/UbyhOgBN834",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -34759,7 +34767,7 @@
             "acceptance": 0.57329,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/Mo33MjjMlyA",
+                    "embedded_url": "https://www.youtube.com/embed/bYWLJb3vCWY",
                     "channel": "take U forward"
                 },
                 {
@@ -35260,7 +35268,7 @@
             "acceptance": 0.30571,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/S6rsAlj_iB4",
+                    "embedded_url": "https://www.youtube.com/embed/0e4bZaP3MDI",
                     "channel": "take U forward"
                 },
                 {
@@ -35337,12 +35345,12 @@
                     "channel": "NeetCode"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/hqGa65Rp5LQ",
-                    "channel": "Techdose"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/b3GD8263-PQ",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/hqGa65Rp5LQ",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Hw6Ygp3JBYw",
@@ -35477,6 +35485,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/e7XQLtOQM3I",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/8BDKB2yuGyg",
                     "channel": "Nick White"
                 },
@@ -35487,10 +35499,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/mJWQjJpEMa4",
                     "channel": "Nikhil Lohia"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Du881K7Jtk8",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -35879,6 +35887,10 @@
             "acceptance": 0.63338,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/7PrncD7v9YQ",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/ARkl69eBzhY",
                     "channel": "Nick White"
                 },
@@ -35893,10 +35905,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/WLrA8X66mQs",
                     "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Du881K7Jtk8",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -36230,7 +36238,12 @@
             "rating": 1379,
             "difficulty_lvl": 1,
             "acceptance": 0.70169,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/kvRjNm4rVBE",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "LTI",
@@ -36297,16 +36310,16 @@
             "acceptance": 0.60998,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/SXKAD2svfmI",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/vo794ruCJnU",
                     "channel": "Cracking FAANG"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/dls887gMbWQ",
                     "channel": "Logic Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/SXKAD2svfmI",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/XP-5D5VwJko",
@@ -36473,6 +36486,10 @@
             "acceptance": 0.47122,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/NOgnlTXidSs",
+                    "channel": "NeetCodeIO"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/L1T6pd2etRI",
                     "channel": "Cherry Coding [IIT-G]"
                 },
@@ -36487,14 +36504,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/1ErNzKfRrX8",
                     "channel": "Huifeng Guan"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/ZOWEOfhZ0L0",
-                    "channel": "Roel Van de Paar"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/NOgnlTXidSs",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -36598,12 +36607,12 @@
                     "channel": "NeetCodeIO"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/_nCsPn7_OgI",
-                    "channel": "Tushar Roy - Coding Made Simple"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/6i_T5kkfv4A",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/_nCsPn7_OgI",
+                    "channel": "Tushar Roy - Coding Made Simple"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/TLaGwTnd3HY",
@@ -36725,6 +36734,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/HgyouUi11zk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/DJ4a7cmjZY0",
                     "channel": "Back To Back SWE"
                 },
@@ -36735,10 +36748,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/ruMqWViJ2_U",
                     "channel": "Techdose"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/hqMfMMyrTfI",
-                    "channel": "The Code Mate"
                 }
             ],
             "companies": [
@@ -37698,16 +37707,16 @@
             "acceptance": 0.56305,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/b1WpYxnuebQ",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/BH_btihSwVM",
                     "channel": "Codebix"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/P9a8QtH89XY",
                     "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/b1WpYxnuebQ",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/AAL4UOytBr4",
@@ -37900,12 +37909,12 @@
                     "channel": "NeetCodeIO"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/nMGL2vlyJk0",
-                    "channel": "Techdose"
+                    "embedded_url": "https://www.youtube.com/embed/AZOmHuHadxQ",
+                    "channel": "take U forward"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/PzszoiY5XMQ",
-                    "channel": "take U forward"
+                    "embedded_url": "https://www.youtube.com/embed/nMGL2vlyJk0",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/YeGuJErPQQU",
@@ -38046,6 +38055,10 @@
             "acceptance": 0.45491,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/edXdVwkYHF8",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/hIvMZFqjs_A",
                     "channel": "HelmyCodeCamp"
                 },
@@ -38060,10 +38073,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/KpOoGf1fWzE",
                     "channel": "Coders Camp"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/edXdVwkYHF8",
-                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -38132,16 +38141,16 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/Rezetez59Nk",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/9bCqmaIY2as",
                     "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/qLcEd-1L1FE",
                     "channel": "Eric Programming"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Rezetez59Nk",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/opxuvlAgyaM",
@@ -38216,16 +38225,16 @@
             "acceptance": 0.77011,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/HAA8mgxlov8",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/GIYRRenUg4Y",
                     "channel": "\u8d3e\u8003\u535a"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/LVnO0eHqlqA",
                     "channel": "guoguowg"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/HAA8mgxlov8",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -38245,6 +38254,10 @@
             "acceptance": 0.44667,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/0ca1nvR0be4",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/F76LIKzluKE",
                     "channel": "Happy Coding"
                 },
@@ -38255,10 +38268,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/dARie9XFXWo",
                     "channel": "\u8d3e\u8003\u535a"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/0ca1nvR0be4",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/DeVu3Ra7sw4",
@@ -38409,6 +38418,10 @@
             "acceptance": 0.6535,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/ACzkVtewUYA",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/S5UUvCTM0V4",
                     "channel": "babybear4812"
                 },
@@ -38419,10 +38432,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/70Gbi7LYZOM",
                     "channel": "LC Bear"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/ZGr5nX-Gi6Y",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/W3YyfjxKcA0",
@@ -38486,12 +38495,12 @@
             "acceptance": 0.50092,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/obhWqDfzwQQ",
-                    "channel": "Techdose"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/IsvocB5BJhw",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/obhWqDfzwQQ",
+                    "channel": "Techdose"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/GeT_IfUbC0s",
@@ -38664,6 +38673,10 @@
             "acceptance": 0.41833,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/BPIJ5ROX0i4",
+                    "channel": "NeetCodeIO"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/X9-6vWqNVto",
                     "channel": "happygirlzt"
                 },
@@ -38678,10 +38691,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/zd20HrEb5dg",
                     "channel": "Huifeng Guan"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/BPIJ5ROX0i4",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -39025,6 +39034,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/xvNwoz-ufXA",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/HbbYPQc-Oo4",
                     "channel": "Techdose"
                 },
@@ -39035,10 +39048,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/r1cwGocurtA",
                     "channel": "Code with Alisha"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/N0_816yrFrY",
-                    "channel": "Errichto"
                 }
             ],
             "companies": [
@@ -39661,16 +39670,16 @@
             "acceptance": 0.4296,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/itmhHWaHupI",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/cmEKMt7peZ4",
                     "channel": "Tech Timeout"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/o-PyO6uLwoY",
                     "channel": "Tech Magic"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/itmhHWaHupI",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/fwPk1RXlorQ",
@@ -39993,6 +40002,10 @@
             "acceptance": 0.40682,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/g9YQyYi4IQQ",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/8pa7UPezd5w",
                     "channel": "Everyday Data Science"
                 },
@@ -40003,10 +40016,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/xF554Tlzo-c",
                     "channel": "Power Couple"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/g9YQyYi4IQQ",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -40229,6 +40238,10 @@
             "acceptance": 0.60609,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/yMnH0jrir0Q",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/VSrsUkoG0bk",
                     "channel": "Algorithms Made Easy"
                 },
@@ -40243,10 +40256,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/tpALbrFWg5U",
                     "channel": "Happy Coding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/P6mfDwGkKkc",
-                    "channel": "Ayushi Sharma"
                 }
             ],
             "companies": [
@@ -40618,16 +40627,16 @@
             "acceptance": 0.37424,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/wkDfsKijrZ8",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/H2gn23w9hs8",
                     "channel": "Huifeng Guan"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/TgttVVHkHMs",
                     "channel": "Timothy H Chang"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/wkDfsKijrZ8",
-                    "channel": "take U forward"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/CCyEXcNamC4",
@@ -40712,16 +40721,16 @@
             "acceptance": 0.43915,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/Cg_wWPHJ2Sk",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/B51j1jjTVWk",
                     "channel": "Knowledge Center"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/wrb-wRBK1t4",
                     "channel": "Naresh Gupta"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/Cg_wWPHJ2Sk",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/i-75styKQsU",
@@ -41978,12 +41987,12 @@
             "acceptance": 0.54383,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/zUCvVVuVeFg",
-                    "channel": "Tech Timeout"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/qMPX1AOa83k",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/zUCvVVuVeFg",
+                    "channel": "Tech Timeout"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/1Aujpatu0fs",
@@ -42841,6 +42850,10 @@
             "acceptance": 0.34192,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/B0UrG_X2faA",
+                    "channel": "NeetCodeIO"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/ph9orJ_zNRw",
                     "channel": "Timothy H Chang"
                 },
@@ -42855,14 +42868,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/eE3J4G9vZgw",
                     "channel": "Coding Decoded"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/QJVpQ8ZYD6I",
-                    "channel": "code Explainer"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/B0UrG_X2faA",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -44010,12 +44015,12 @@
             "acceptance": 0.61095,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/AswWgktaeDk",
-                    "channel": "Timothy H Chang"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/ssL3sHwPeb4",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/AswWgktaeDk",
+                    "channel": "Timothy H Chang"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/xMvhRaFCw2M",
@@ -44129,6 +44134,10 @@
             "acceptance": 0.62437,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/6ZnyEApgFYg",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/qzBsfwBv3ZQ",
                     "channel": "AI Learning Corner"
                 },
@@ -44143,10 +44152,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/efAbnNsse7o",
                     "channel": "Rita Chen zeng"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/6ZnyEApgFYg",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -44488,6 +44493,10 @@
                     "channel": "NeetCodeIO"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/ZbybYvcVLks",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/sm4UdCO2868",
                     "channel": "Nick White"
                 },
@@ -44498,10 +44507,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Y2CKCnQfHJQ",
                     "channel": "Ayushi Sharma"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/673DsIXOkWg",
-                    "channel": "Sai Anish Malla"
                 }
             ],
             "companies": [
@@ -44559,16 +44564,16 @@
             "acceptance": 0.4143,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/IsvocB5BJhw",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/cZaoUEg89M0",
                     "channel": "Java Coding Insight Interview Preparation"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/mKHE0axWsho",
                     "channel": "Prakash Shukla"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/IsvocB5BJhw",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/N-CS9fJP84U",
@@ -44731,12 +44736,12 @@
             "acceptance": 0.59635,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/58YvvnKcczA",
-                    "channel": "\u8d3e\u8003\u535a"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/LSKQyOz_P8I",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/58YvvnKcczA",
+                    "channel": "\u8d3e\u8003\u535a"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Hg82DzMemMI",
@@ -45085,6 +45090,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/cKVl1TFdNXg",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/T5BzKSJ2Ndk",
                     "channel": "Algorithms Made Easy"
                 },
@@ -45137,12 +45146,12 @@
             "acceptance": 0.49465,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/jSvoE-_Yhs4",
-                    "channel": "Nick White"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/cjWnW0hdF1Y",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/jSvoE-_Yhs4",
+                    "channel": "Nick White"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/dF5vBO4bbzs",
@@ -45329,6 +45338,10 @@
                     "channel": "NeetCode"
                 },
                 {
+                    "embedded_url": "https://www.youtube.com/embed/cHT6sG_hUZI",
+                    "channel": "take U forward"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/KuE_Cn3xhxI",
                     "channel": "Techdose"
                 },
@@ -45339,10 +45352,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/2H9gMIIGyvY",
                     "channel": "Knowledge Center"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/S2LX5E8uxSw",
-                    "channel": "thecodingworld"
                 }
             ],
             "companies": [
@@ -46164,12 +46173,12 @@
             "acceptance": 0.5739,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/cupg2TGIkyM",
-                    "channel": "Michael Muinos"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/YPTqKIgVk-k",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/cupg2TGIkyM",
+                    "channel": "Michael Muinos"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/96hCN6t6rDg",
@@ -46708,6 +46717,10 @@
             "acceptance": 0.44757,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/bahebearrDc",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/ygxcNixDtFI",
                     "channel": "Programming Live with Larry"
                 },
@@ -46722,10 +46735,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/d7kSgkC32uY",
                     "channel": "Huifeng Guan"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/bahebearrDc",
-                    "channel": "NeetCode"
                 }
             ],
             "companies": [
@@ -46744,7 +46753,12 @@
             "rating": 1303,
             "difficulty_lvl": 1,
             "acceptance": 0.78404,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/KcNt6v_56cc",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Google",
@@ -46791,6 +46805,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Cpg8f79luEA",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/FiFiNvM29ps",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -46928,6 +46946,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/s4DPM8ct1pI",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/MHf6awe89xw",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -47410,12 +47432,12 @@
             "acceptance": 0.67749,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/Ew_R-ZfhPEc",
-                    "channel": "Algorithms Made Easy"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/k4eK-vEmnKg",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/Ew_R-ZfhPEc",
+                    "channel": "Algorithms Made Easy"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/j0slmJX72oU",
@@ -47849,12 +47871,12 @@
                     "channel": "NeetCodeIO"
                 },
                 {
-                    "embedded_url": "https://www.youtube.com/embed/f17PKE8W2p8",
-                    "channel": "Cracking FAANG"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/FMwpt_aQOGw",
                     "channel": "take U forward"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/f17PKE8W2p8",
+                    "channel": "Cracking FAANG"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/E8EKDyGtRN0",
@@ -48214,6 +48236,10 @@
             "acceptance": 0.52385,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/iuK05gGBzJc",
+                    "channel": "NeetCodeIO"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/ld_W5tvJJsk",
                     "channel": "Happy Coding"
                 },
@@ -48228,14 +48254,6 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/AZZ18B2Spac",
                     "channel": "Huifeng Guan"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/1rp7kIKlajI",
-                    "channel": "WorkWithGoogler"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/iuK05gGBzJc",
-                    "channel": "NeetCodeIO"
                 }
             ],
             "companies": [
@@ -48285,12 +48303,12 @@
             "acceptance": 0.43153,
             "videos": [
                 {
-                    "embedded_url": "https://www.youtube.com/embed/PYEb5UFwz2M",
-                    "channel": "Happy Coding"
-                },
-                {
                     "embedded_url": "https://www.youtube.com/embed/jSto0O4AJbM",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/PYEb5UFwz2M",
+                    "channel": "Happy Coding"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/8UtHFf3R6TE",
@@ -48595,6 +48613,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/LN7KjRszjk4",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/_eYGqw_VDR4",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -50206,7 +50228,12 @@
             "rating": 2084,
             "difficulty_lvl": 3,
             "acceptance": 0.51885,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/kMSBvlZ-_HA",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Google",
@@ -50293,6 +50320,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/amvrKlMLuGY",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/ZSPjZuZWCME",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -50627,7 +50658,12 @@
             "rating": 1625,
             "difficulty_lvl": 2,
             "acceptance": 0.5485,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/KG5YFfR0j8A",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Samsung",
@@ -50708,6 +50744,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/5eIK3zUdYmE",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/9XybHVqTHcQ",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -51258,6 +51298,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Re_v0j0CRsg",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/2gtg3VsDGyc",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -52005,7 +52049,12 @@
             "rating": 1934,
             "difficulty_lvl": 3,
             "acceptance": 0.45389,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/lgiz0Oup6gM",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Snap",
@@ -53336,7 +53385,12 @@
             "rating": 1286,
             "difficulty_lvl": 1,
             "acceptance": 0.52993,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/n_tmibEhO6Q",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Infosys",
@@ -53465,7 +53519,12 @@
             "rating": 1663,
             "difficulty_lvl": 2,
             "acceptance": 0.63961,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/i9ORlEy6EsI",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Okta",
@@ -53975,6 +54034,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/U2SozAs9RzA",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/qyfekrNni90",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -54048,6 +54111,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/A2_ldqM4QcY",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/7LjQ57RqgEc",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -54945,6 +55012,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/slYh0ZNEqSw",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/eay-zoSRkVc",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -55051,6 +55122,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/yYtaV0G3mWQ",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/e3bs0uA1NhQ",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -55186,7 +55261,12 @@
             "rating": 1976,
             "difficulty_lvl": 2,
             "acceptance": 0.35385,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/v0e8p9JCgRc",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "ZS Associates",
@@ -56082,7 +56162,12 @@
             "rating": 1592,
             "difficulty_lvl": 2,
             "acceptance": 0.54005,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/XnMdNUkX6VM",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Bloomberg",
@@ -56124,7 +56209,12 @@
             "rating": 1573,
             "difficulty_lvl": 2,
             "acceptance": 0.66774,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/_rgTlyky1uQ",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Dream11",
@@ -56781,7 +56871,12 @@
             "rating": 2035,
             "difficulty_lvl": 2,
             "acceptance": 0.58861,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/OwMNX8SPavM",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "PhonePe",
@@ -58297,7 +58392,12 @@
             "rating": 1676,
             "difficulty_lvl": 3,
             "acceptance": 0.45878,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/q_a6lpbKJdw",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Samsung",
@@ -58496,7 +58596,12 @@
             "rating": 2210,
             "difficulty_lvl": 3,
             "acceptance": 0.55454,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/7wYGbV_LsX4",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "HashedIn",
@@ -58604,6 +58709,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/y704fEOx0s0",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/yf3oUhkvqA0",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -58912,7 +59021,12 @@
             "rating": 1656,
             "difficulty_lvl": 2,
             "acceptance": 0.62985,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/3E4JBHSLpYk",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "LinkedIn",
@@ -59071,7 +59185,12 @@
             "frontend_id": 1008,
             "difficulty_lvl": 2,
             "acceptance": 0.81513,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/UmJT3j26t1I",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Amazon",
@@ -59196,6 +59315,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/ER_oLmdc-nw",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/MG-Ac4TAvTY",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -59505,7 +59628,12 @@
             "rating": 1615,
             "difficulty_lvl": 2,
             "acceptance": 0.68791,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/rxKcepXQgU4",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Google",
@@ -60269,7 +60397,12 @@
             "rating": 1916,
             "difficulty_lvl": 2,
             "acceptance": 0.72034,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/PhWWJmaKfMc",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "TikTok",
@@ -60521,7 +60654,12 @@
             "rating": 1599,
             "difficulty_lvl": 2,
             "acceptance": 0.5943,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/YY8iBaYcc4g",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Moloco",
@@ -60587,6 +60725,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/gdXkkmzvR3c",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/GS_OqZb2CWc",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -61758,6 +61900,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/YnxUdAO7TAo",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/U5Mw4eyUmw4",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -61825,7 +61971,12 @@
             "rating": 1977,
             "difficulty_lvl": 3,
             "acceptance": 0.58701,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/xElxAuBcvsU",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Microsoft",
@@ -62183,7 +62334,12 @@
             "rating": 1880,
             "difficulty_lvl": 3,
             "acceptance": 0.5862,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/MM7fXopgyjw",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Amazon",
@@ -62887,7 +63043,12 @@
             "rating": 1231,
             "difficulty_lvl": 1,
             "acceptance": 0.77846,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/1xNbjMdbjug",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Amazon",
@@ -62904,7 +63065,12 @@
             "rating": 1753,
             "difficulty_lvl": 2,
             "acceptance": 0.61534,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/mJcZjjKzeqk",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Amazon",
@@ -63160,6 +63326,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/Ua0GhsJSlWM",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/-zI4mrF2Pb4",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -64618,7 +64788,12 @@
             "rating": 2085,
             "difficulty_lvl": 3,
             "acceptance": 0.55098,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/qrAub5z8FeA",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "InMobi",
@@ -66423,6 +66598,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/4zNK0rhFfcA",
                     "channel": "NeetCodeIO"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/j_QOv9OT9Og",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -67284,7 +67463,12 @@
             "rating": 1613,
             "difficulty_lvl": 2,
             "acceptance": 0.7473,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/auS1fynpnjo",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Google",
@@ -67479,7 +67663,12 @@
             "rating": 1542,
             "difficulty_lvl": 2,
             "acceptance": 0.57507,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/UvBKTVaG6U8",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Expedia",
@@ -68435,7 +68624,12 @@
             "rating": 1787,
             "difficulty_lvl": 3,
             "acceptance": 0.69673,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/xPBLEj41rFU",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Accenture",
@@ -68634,7 +68828,12 @@
             "rating": 1633,
             "difficulty_lvl": 2,
             "acceptance": 0.62357,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/FYrl7iz9_ZU",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Akuna Capital",
@@ -69140,7 +69339,12 @@
             "rating": 1855,
             "difficulty_lvl": 2,
             "acceptance": 0.57077,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/9XybHVqTHcQ",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Uber",
@@ -70005,7 +70209,12 @@
             "rating": 1646,
             "difficulty_lvl": 2,
             "acceptance": 0.64218,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/xtqN4qlgr8s",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "DE Shaw",
@@ -71953,6 +72162,10 @@
                 {
                     "embedded_url": "https://www.youtube.com/embed/TsA4vbtfCvo",
                     "channel": "NeetCode"
+                },
+                {
+                    "embedded_url": "https://www.youtube.com/embed/pBWCOCS636U",
+                    "channel": "take U forward"
                 }
             ],
             "companies": [
@@ -73682,7 +73895,12 @@
             "rating": 1946,
             "difficulty_lvl": 2,
             "acceptance": 0.52795,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/TXAuxeYBTdg",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "PhonePe",
@@ -74807,7 +75025,12 @@
             "frontend_id": 1520,
             "difficulty_lvl": 3,
             "acceptance": 0.38294,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/V8qIqJxCioo",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Amazon",
@@ -75322,7 +75545,12 @@
             "rating": 1295,
             "difficulty_lvl": 1,
             "acceptance": 0.58763,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/uZ0N_hZpyps",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Meta",
@@ -75545,7 +75773,12 @@
             "rating": 2116,
             "difficulty_lvl": 3,
             "acceptance": 0.62407,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/xwomavsC86c",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Amazon",
@@ -77623,7 +77856,12 @@
             "rating": 1948,
             "difficulty_lvl": 2,
             "acceptance": 0.5639,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/0ytpZyiZFhA",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Waymo",
@@ -79660,7 +79898,12 @@
             "rating": 1876,
             "difficulty_lvl": 2,
             "acceptance": 0.63054,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/RV0QeTyHZxo",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Dunzo",
@@ -79887,7 +80130,12 @@
             "frontend_id": 1707,
             "difficulty_lvl": 3,
             "acceptance": 0.47339,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/Q8LhG9Pi5KM",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Google",
@@ -81128,7 +81376,12 @@
             "rating": 1325,
             "difficulty_lvl": 1,
             "acceptance": 0.50453,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/37E9ckMDdTk",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Bloomberg",
@@ -81441,7 +81694,12 @@
             "rating": 1461,
             "difficulty_lvl": 2,
             "acceptance": 0.79012,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/cHrH9CQ8pmY",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Meta",
@@ -83974,7 +84232,12 @@
             "rating": 2084,
             "difficulty_lvl": 2,
             "acceptance": 0.67571,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/AWnBa91lThI",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Google",
@@ -85029,7 +85292,12 @@
             "rating": 1472,
             "difficulty_lvl": 2,
             "acceptance": 0.51126,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/nGGp5XBzC4g",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Bloomberg",
@@ -87126,7 +87394,12 @@
             "rating": 2095,
             "difficulty_lvl": 2,
             "acceptance": 0.29159,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/_-0mx0SmYxA",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Google",
@@ -88745,16 +89018,16 @@
             "acceptance": 0.40917,
             "videos": [
                 {
+                    "embedded_url": "https://www.youtube.com/embed/4v42XOuU1XA",
+                    "channel": "NeetCode"
+                },
+                {
                     "embedded_url": "https://www.youtube.com/embed/WHW-kt16710",
                     "channel": "Programming Live with Larry"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/GXMxCGnqdKE",
                     "channel": "Pepcoding"
-                },
-                {
-                    "embedded_url": "https://www.youtube.com/embed/4v42XOuU1XA",
-                    "channel": "NeetCode"
                 },
                 {
                     "embedded_url": "https://www.youtube.com/embed/Qj0zZyWRex0",
@@ -90338,7 +90611,12 @@
             "rating": 1324,
             "difficulty_lvl": 2,
             "acceptance": 0.58953,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/ePpV-_pfOeI",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "tcs",
@@ -90617,7 +90895,12 @@
             "rating": 1504,
             "difficulty_lvl": 2,
             "acceptance": 0.608,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/gIrMptNPf5M",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "DE Shaw",
@@ -91780,7 +92063,12 @@
             "rating": 1236,
             "difficulty_lvl": 2,
             "acceptance": 0.81529,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/h4aBagy4Uok",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Amazon",
@@ -93387,7 +93675,12 @@
             "frontend_id": 2220,
             "difficulty_lvl": 1,
             "acceptance": 0.82459,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/OOdrmcfZXd8",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "persistent systems",
@@ -97452,7 +97745,12 @@
             "rating": 1605,
             "difficulty_lvl": 2,
             "acceptance": 0.68221,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/Q9wXgdxJq48",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "DE Shaw",
@@ -97936,7 +98234,12 @@
             "rating": 1713,
             "difficulty_lvl": 2,
             "acceptance": 0.46283,
-            "videos": [],
+            "videos": [
+                {
+                    "embedded_url": "https://www.youtube.com/embed/AsGzwR_FWok",
+                    "channel": "take U forward"
+                }
+            ],
             "companies": [
                 {
                     "name": "Walmart Labs",
